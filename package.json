@@ -9,7 +9,7 @@
     "typescript": "^3.2.2"
   },
   "scripts": {
-    "start": "tsc-watch --onSuccess \" node dist/inde.js\" "
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
   },
   "devDependencies": {
     "tsc-watch": "^1.0.31"
