@@ -1,0 +1,17 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dhoonjang/typechain.git",
+  "author": "dhoonjang <dhoonjang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/inde.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^1.0.31"
+  }
+}
